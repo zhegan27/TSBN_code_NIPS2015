@@ -12,9 +12,9 @@ minimally documented but fully functional.
 
 ## Getting started
 
-1. go to the folder ./supp to see the synthesized mocap motion and polyphonic music by running our model. 
+1. go to the folder ./supp to see the synthesized mocap motion and polyphonic music. 
 
-2.  go to the folder ./src to check the matlab code. For each dataset, we give the detailed implementation details inside. 
+2.  go to the folder ./src to check the matlab code. We create one folder for each dataset, and give the detailed implementation notes inside. 
 
 ## License
 
@@ -25,10 +25,10 @@ not do anything stupid. Permission is granted to use and modify the code.
 
 Please cite our NIPS paper in your publications if it helps your research:
 
-    @inproceedings{DPFA_ICML2015,
-      Author = {Z. Gan, C. Chen, R. Henao, D. Carlson, and L. Carin},
-      Title = {Scalable Deep Poisson Factor Analysis for Topic Modeling},
-      booktitle={ICML},
+    @inproceedings{TSBN_NIPS2015,
+      Author = {Z. Gan, C. Li, R. Henao, D. Carlson, and L. Carin},
+      Title = {Deep Temporal Sigmoid Belief Networks for Sequence Modeling},
+      booktitle={NIPS},
       Year  = {2015}
     }
 
