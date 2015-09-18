@@ -5,9 +5,7 @@ The original mocap data can be downloaded from http://www.uoguelph.ca/~gwtaylor/
 If you want to run cmu data, you need first download the preprocessed data from http://www-personal.umich.edu/~rmittelm/ (see the 
 code link for the paper Structured RTRBM). We use this preprocessed dataset so that we can compare with their results directly.
 
-After you downloaded it, you should be able to 
-
-load tmp_MOCAP1.mat;  load tmp_MOCAP2.mat;
+After you downloaded it, you should be able to load tmp_MOCAP1.mat;  load tmp_MOCAP2.mat;
 
 If you want to run mit data, the preprocessed data is already provided here. 
 
