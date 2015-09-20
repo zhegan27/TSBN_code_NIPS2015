@@ -1,6 +1,6 @@
 ## Temporal Sigmoid Belief Network
 
-The Matlab Code and the Supplementary Material for the NIPS 2015 paper "Deep Temporal Sigmoid Belief Networks for Sequence Modeling"
+The Matlab Code for the NIPS 2015 paper "Deep Temporal Sigmoid Belief Networks for Sequence Modeling"
 
 Zhe Gan (zhe.gan@duke.edu), 9.18.2015
 
@@ -12,9 +12,7 @@ minimally documented but fully functional.
 
 ## Getting started
 
-1. go to the folder ./supp to see the synthesized mocap motion and polyphonic music. 
-
-2.  go to the folder ./src to check the matlab code. We create one folder for each dataset, and give the detailed implementation notes inside. 
+We create one folder for each dataset, and give the detailed implementation notes inside. 
 
 ## License
 
@@ -31,6 +29,12 @@ Please cite our NIPS paper in your publications if it helps your research:
       booktitle={NIPS},
       Year  = {2015}
     }
+	
+## Generated Data
+
+The generated, synthetic motion capture data, and polyphonic music data can be downloaded from
+
+https://drive.google.com/drive/u/0/folders/0B1HR6m3IZSO_SWt0aS1oYmlneDQ
 
 
 
